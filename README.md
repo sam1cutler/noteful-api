@@ -4,7 +4,7 @@
 This Express server accesses a database, serving as the API for the Noteful note-taking React app. 
 
 ## Technology used
-Express, PostgreSQL, Morgan, Helmet. 
+Express, PostgreSQL, Heroku, Morgan, Helmet. 
 
 ## Contact me
 You can find [my GitHub page here](https://github.com/sam1cutler).
